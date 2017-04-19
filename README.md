@@ -1,9 +1,9 @@
 # Reverse-Engineering Visualizations (REV)
 
-Full code will be available soon.
+Full code and data will be available soon.
 
-Data sets can be found:
-* Vega Charts
-* Quartz
-* Academic papers:
+<!-- Data sets can be found at this links: -->
+<!-- * Vega Charts: -->
+<!-- * Quartz: -->
+<!-- * Academic papers: -->
 
